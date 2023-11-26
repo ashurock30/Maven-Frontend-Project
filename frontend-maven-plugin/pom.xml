@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <artifactId>frontend-plugins</artifactId>
-    <groupId>com.github.eirslett</groupId>
+    <groupId>com.mycompany.app</groupId>
     <version>1.14.3-SNAPSHOT</version>
   </parent>
 
@@ -24,7 +24,7 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.github.eirslett</groupId>
+      <groupId>com.mycompany.app</groupId>
       <artifactId>frontend-plugin-core</artifactId>
       <version>${project.parent.version}</version>
     </dependency>
